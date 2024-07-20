@@ -47,7 +47,7 @@ export default function EmailForm() {
             pattern="[a-z0-9._%+\-]+@[a-z0-9.\-]+\.[a-z]{2,}$"
             id="email-address"
             name="email"
-            placeholder="johndoe@example.com"
+            placeholder="Enter your email"
             required
             type="email"
             value={email}
