@@ -22,7 +22,7 @@ export default function Home() {
             Join the conversation: Secure your spot on our Chat App!
           </h1>
           <p className="text-gray-500">
-            Join the waitlist to be notified when our app is available!
+          Join the waitlist to be notified when we launch!
           </p>
 
           <EmailForm />
